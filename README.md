@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sandy, and I Work as a Tradies Website Developer and Marketer.
+I am Sandeep Singh , and I Work as a Wordpress Developer and Digital Marketer.
 
 - 🔭 I’m currently working on ...many SEO and WordPress Development projects.
 - 🌱 I’m currently learning ...PyTorch, Deep AI etc
